@@ -25,6 +25,7 @@
 <form>
   <label><input type="radio" name="mode" value="size"> Size</label>
   <label><input type="radio" name="mode" value="count" checked> Count</label>
+  <div></div>
 </form>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 <script>
@@ -60,8 +61,9 @@
   // Keep track of the node that is currently being displayed as the root.
   var node;
 
-  d3.json("flare.json", function(error, root) {
+  d3.json("groupeddata.json", function(error, root) {
     node = root;
+
     var path = svg.datum(root).selectAll("path")
       .data(partition.nodes)
       .enter().append("path")

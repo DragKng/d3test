@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c500b85-d92e-4694-a09f-bdad37ca8fdf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circle-test-data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circled3test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flare.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flarev1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/infra-output.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sunbrusttest.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circled3test.html" afterPath="$PROJECT_DIR$/circled3test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="d3test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,121 +27,227 @@
     <favorites_list name="d3test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.193548" vertical-offset="396" max-vertical-offset="2090">
-              <caret line="38" column="43" selection-start-line="30" selection-start-column="2" selection-end-line="38" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circled3test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circled3test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-28.709677" vertical-offset="474" max-vertical-offset="3080">
-              <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circle-test-data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/circle-test-data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="66.0" vertical-offset="2442" max-vertical-offset="7524">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="infra-output.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infra-output.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35750">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sunbrusttest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.612904" vertical-offset="0" max-vertical-offset="2156">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flare.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flare.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.451612" vertical-offset="0" max-vertical-offset="1562">
-              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-              <folding>
-                <element signature="e#643#926#0" expanded="false" />
-                <element signature="e#1004#1073#0" expanded="false" />
-                <element signature="e#1148#2262#0" expanded="false" />
-                <element signature="e#1310#1836#0" expanded="false" />
-                <element signature="e#2316#2953#0" expanded="false" />
-                <element signature="e#2382#2668#0" expanded="false" />
-                <element signature="e#3010#3204#0" expanded="false" />
-                <element signature="e#3258#3310#0" expanded="false" />
-                <element signature="e#3367#3735#0" expanded="false" />
-                <element signature="e#3790#6468#0" expanded="false" />
-                <element signature="e#4656#6038#0" expanded="false" />
-                <element signature="e#6523#6993#0" expanded="false" />
-                <element signature="e#7047#8452#0" expanded="false" />
-                <element signature="e#7365#7478#0" expanded="false" />
-                <element signature="e#7684#7846#0" expanded="false" />
-                <element signature="e#8505#13477#0" expanded="false" />
-                <element signature="e#9864#10097#0" expanded="false" />
-                <element signature="e#10953#11145#0" expanded="false" />
-                <element signature="e#11234#11527#0" expanded="false" />
-                <element signature="e#11615#11815#0" expanded="false" />
-                <element signature="e#11892#12151#0" expanded="false" />
-                <element signature="e#12225#13121#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flarev1.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flarev1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="7524">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="showd3test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/showd3test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
-              <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-14.193548" vertical-offset="396" max-vertical-offset="2090">
+                  <caret line="38" column="43" selection-start-line="30" selection-start-column="2" selection-end-line="38" selection-end-column="43" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="circled3test.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/circled3test.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.6967126" vertical-offset="927" max-vertical-offset="3124">
+                  <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="circle-test-data.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/circle-test-data.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="66.0" vertical-offset="2442" max-vertical-offset="7524">
+                  <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="infra-output.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/infra-output.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-23.419355" vertical-offset="0" max-vertical-offset="35750">
+                  <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sunbrusttest.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-14.193548" vertical-offset="0" max-vertical-offset="2156">
+                  <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="groupeddata.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/groupeddata.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3894">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#149#662#0" expanded="false" />
+                    <element signature="e#743#853#0" expanded="false" />
+                    <element signature="e#941#1056#0" expanded="false" />
+                    <element signature="e#1144#1205#0" expanded="false" />
+                    <element signature="e#1366#1585#0" expanded="false" />
+                    <element signature="e#1674#1842#0" expanded="false" />
+                    <element signature="e#1938#2107#0" expanded="false" />
+                    <element signature="e#2203#2268#0" expanded="false" />
+                    <element signature="e#2362#2479#0" expanded="false" />
+                    <element signature="e#2560#2680#0" expanded="false" />
+                    <element signature="e#2778#2895#0" expanded="false" />
+                    <element signature="e#2993#3111#0" expanded="false" />
+                    <element signature="e#3278#3396#0" expanded="false" />
+                    <element signature="e#3492#3608#0" expanded="false" />
+                    <element signature="e#3702#3768#0" expanded="false" />
+                    <element signature="e#3937#4155#0" expanded="false" />
+                    <element signature="e#4244#4514#0" expanded="false" />
+                    <element signature="e#4610#4675#0" expanded="false" />
+                    <element signature="e#4769#4834#0" expanded="false" />
+                    <element signature="e#4935#5001#0" expanded="false" />
+                    <element signature="e#5078#5143#0" expanded="false" />
+                    <element signature="e#5312#5636#0" expanded="false" />
+                    <element signature="e#5725#5790#0" expanded="false" />
+                    <element signature="e#5873#5992#0" expanded="false" />
+                    <element signature="e#6088#6153#0" expanded="false" />
+                    <element signature="e#6247#6311#0" expanded="false" />
+                    <element signature="e#6392#6457#0" expanded="false" />
+                    <element signature="e#6555#6620#0" expanded="false" />
+                    <element signature="e#6718#6784#0" expanded="false" />
+                    <element signature="e#6953#7174#0" expanded="false" />
+                    <element signature="e#7263#7431#0" expanded="false" />
+                    <element signature="e#7527#7697#0" expanded="false" />
+                    <element signature="e#7791#7858#0" expanded="false" />
+                    <marker date="1441395285467" expanded="true" signature="34:7894" placeholder="[...]" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="flare.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/flare.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.677419" vertical-offset="0" max-vertical-offset="1562">
+                  <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#643#926#0" expanded="false" />
+                    <element signature="e#1004#1073#0" expanded="false" />
+                    <element signature="e#1148#2262#0" expanded="false" />
+                    <element signature="e#1310#1836#0" expanded="false" />
+                    <element signature="e#2316#2953#0" expanded="false" />
+                    <element signature="e#2382#2668#0" expanded="false" />
+                    <element signature="e#3010#3204#0" expanded="false" />
+                    <element signature="e#3258#3310#0" expanded="false" />
+                    <element signature="e#3367#3735#0" expanded="false" />
+                    <element signature="e#3790#6468#0" expanded="false" />
+                    <element signature="e#4656#6038#0" expanded="false" />
+                    <element signature="e#6523#6993#0" expanded="false" />
+                    <element signature="e#7047#8452#0" expanded="false" />
+                    <element signature="e#7365#7478#0" expanded="false" />
+                    <element signature="e#7684#7846#0" expanded="false" />
+                    <element signature="e#8505#13477#0" expanded="false" />
+                    <element signature="e#9864#10097#0" expanded="false" />
+                    <element signature="e#10953#11145#0" expanded="false" />
+                    <element signature="e#11234#11527#0" expanded="false" />
+                    <element signature="e#11615#11815#0" expanded="false" />
+                    <element signature="e#11892#12151#0" expanded="false" />
+                    <element signature="e#12225#13121#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="flarev1.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/flarev1.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="7524">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="showd3test.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/showd3test.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+                  <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
+                  <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="groupeddata.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/groupeddata.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.5132556" vertical-offset="0" max-vertical-offset="4136">
+                  <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+                  <folding>
+                    <element signature="e#743#853#0" expanded="false" />
+                    <element signature="e#941#1056#0" expanded="false" />
+                    <element signature="e#1144#1205#0" expanded="false" />
+                    <element signature="e#1366#1585#0" expanded="false" />
+                    <element signature="e#1674#1842#0" expanded="false" />
+                    <element signature="e#1938#2107#0" expanded="false" />
+                    <element signature="e#2203#2268#0" expanded="false" />
+                    <element signature="e#2362#2479#0" expanded="false" />
+                    <element signature="e#2560#2680#0" expanded="false" />
+                    <element signature="e#2778#2895#0" expanded="false" />
+                    <element signature="e#2993#3111#0" expanded="false" />
+                    <element signature="e#3278#3396#0" expanded="false" />
+                    <element signature="e#3492#3608#0" expanded="false" />
+                    <element signature="e#3702#3768#0" expanded="false" />
+                    <element signature="e#3937#4155#0" expanded="false" />
+                    <element signature="e#4244#4514#0" expanded="false" />
+                    <element signature="e#4610#4675#0" expanded="false" />
+                    <element signature="e#4769#4834#0" expanded="false" />
+                    <element signature="e#4935#5001#0" expanded="false" />
+                    <element signature="e#5078#5143#0" expanded="false" />
+                    <element signature="e#5312#5636#0" expanded="false" />
+                    <element signature="e#5725#5790#0" expanded="false" />
+                    <element signature="e#5873#5992#0" expanded="false" />
+                    <element signature="e#6088#6153#0" expanded="false" />
+                    <element signature="e#6247#6311#0" expanded="false" />
+                    <element signature="e#6392#6457#0" expanded="false" />
+                    <element signature="e#6555#6620#0" expanded="false" />
+                    <element signature="e#6718#6784#0" expanded="false" />
+                    <element signature="e#6953#7174#0" expanded="false" />
+                    <element signature="e#7263#7431#0" expanded="false" />
+                    <element signature="e#7527#7697#0" expanded="false" />
+                    <element signature="e#7791#7858#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comment.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/comment.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="154">
+                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -161,9 +260,11 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sunbrusttest.html" />
-        <option value="$PROJECT_DIR$/circled3test.html" />
         <option value="$PROJECT_DIR$/flare.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/comment.html" />
+        <option value="$PROJECT_DIR$/groupeddata.json" />
+        <option value="$PROJECT_DIR$/circled3test.html" />
       </list>
     </option>
   </component>
@@ -268,7 +369,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angularjs" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
@@ -338,7 +439,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -353,7 +454,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498645" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24652407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24652407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -365,10 +466,10 @@
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -532,10 +633,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/circle-test-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="66.0" vertical-offset="2442" max-vertical-offset="7524">
+          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infra-output.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.419355" vertical-offset="0" max-vertical-offset="35750">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.193548" vertical-offset="0" max-vertical-offset="2156">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/flare.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.451612" vertical-offset="0" max-vertical-offset="1562">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state vertical-scroll-proportion="-5.677419" vertical-offset="0" max-vertical-offset="1562">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
             <element signature="e#643#926#0" expanded="false" />
             <element signature="e#1004#1073#0" expanded="false" />
@@ -563,35 +688,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
+    <entry file="file://$PROJECT_DIR$/comment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.612904" vertical-offset="0" max-vertical-offset="2156">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="81" />
+        <state vertical-scroll-proportion="-0.7096774" vertical-offset="0" max-vertical-offset="154">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/circled3test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-28.709677" vertical-offset="474" max-vertical-offset="3080">
-          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.6967126" vertical-offset="927" max-vertical-offset="3124">
+          <caret line="72" column="18" selection-start-line="72" selection-start-column="18" selection-end-line="72" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/circle-test-data.json">
+    <entry file="file://$PROJECT_DIR$/groupeddata.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="66.0" vertical-offset="2442" max-vertical-offset="7524">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infra-output.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35750">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.5132556" vertical-offset="0" max-vertical-offset="4136">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#743#853#0" expanded="false" />
+            <element signature="e#941#1056#0" expanded="false" />
+            <element signature="e#1144#1205#0" expanded="false" />
+            <element signature="e#1366#1585#0" expanded="false" />
+            <element signature="e#1674#1842#0" expanded="false" />
+            <element signature="e#1938#2107#0" expanded="false" />
+            <element signature="e#2203#2268#0" expanded="false" />
+            <element signature="e#2362#2479#0" expanded="false" />
+            <element signature="e#2560#2680#0" expanded="false" />
+            <element signature="e#2778#2895#0" expanded="false" />
+            <element signature="e#2993#3111#0" expanded="false" />
+            <element signature="e#3278#3396#0" expanded="false" />
+            <element signature="e#3492#3608#0" expanded="false" />
+            <element signature="e#3702#3768#0" expanded="false" />
+            <element signature="e#3937#4155#0" expanded="false" />
+            <element signature="e#4244#4514#0" expanded="false" />
+            <element signature="e#4610#4675#0" expanded="false" />
+            <element signature="e#4769#4834#0" expanded="false" />
+            <element signature="e#4935#5001#0" expanded="false" />
+            <element signature="e#5078#5143#0" expanded="false" />
+            <element signature="e#5312#5636#0" expanded="false" />
+            <element signature="e#5725#5790#0" expanded="false" />
+            <element signature="e#5873#5992#0" expanded="false" />
+            <element signature="e#6088#6153#0" expanded="false" />
+            <element signature="e#6247#6311#0" expanded="false" />
+            <element signature="e#6392#6457#0" expanded="false" />
+            <element signature="e#6555#6620#0" expanded="false" />
+            <element signature="e#6718#6784#0" expanded="false" />
+            <element signature="e#6953#7174#0" expanded="false" />
+            <element signature="e#7263#7431#0" expanded="false" />
+            <element signature="e#7527#7697#0" expanded="false" />
+            <element signature="e#7791#7858#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

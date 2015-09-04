@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-  <title>My project</title>
+  <title>My d3 test project</title>
   <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
   <!--<script type="text/javascript" src="js/showd3test.js"></script>-->
   <link href="css/styles.css" rel="stylesheet">
@@ -11,6 +11,7 @@
 <div id="viz"></div>
 <div id="rect-demo"></div>
 <div id="chart"></div>
+<div id="bar-demo"></div>
 <script type="text/javascript">
 
   var sampleSVG = d3.select("#viz")
@@ -25,9 +26,9 @@
     .attr("cx", 50)
     .attr("cy", 50)
     .on("mouseover", function(){d3.select(this).style("fill", "aliceblue");})
-    .on("mouseout", function(){d3.select(this).style("fill", "white");});
+    .on("mouseout", function(){d3.select(this).style("fill", "blue");});
 
-  var w=960,h=500,
+  var w=360,h=200,
     svg=d3.select("#chart")
       .append("svg")
       .attr("width",w)
@@ -35,19 +36,54 @@
 
   var text=svg
     .append("text")
-    .text("hello world")
-    .attr("y",50);
+    .text("hello this is my first D3 test")
+    .attr("fill", "red")
+    .attr("y", 100)
+    .on("mouseover", function(){d3.select(this).style("fill", "purple");})
+    .on("mouseout", function(){d3.select(this).style("fill", "blue");});
 
   var rectDemo = d3.select("#rect-demo").
     append("svg:svg").
-    attr("width", 400).
-    attr("height", 300);
+    attr("width", 300).
+    attr("height", 200);
 
   rectDemo.append("svg:rect").
     attr("x", 100).
     attr("y", 100).
     attr("height", 100).
-    attr("width", 200);
+    attr("width", 200).
+    attr("fill", "green").
+    attr("stroke", "black");
+
+  var data = [
+    {year: 2006, books: 54},
+    {year: 2007, books: 43},
+    {year: 2008, books: 45},
+    {year: 2009, books: 32}];
+
+  var barWidth = 40;
+  var width = (barWidth + 10) * data.length;
+  var height = 200;
+
+  var y = d3.scale.linear().domain([0, data.length]).range([0, width]);
+  var x = d3.scale.linear().domain([0, d3.max(data, function(datum) { return datum.books; })]).rangeRound([0, width]);
+
+  //add the canvas to the DOM
+  var barDemo = d3.select("#bar-demo").
+    append("svg:svg").
+    attr("width", width).
+    attr("height", height);
+
+  barDemo.selectAll("rect").
+    data(data).
+    enter().
+    append("svg:rect").
+    attr("y", function(datum, index) { return y(index); }).
+    attr("x", function(datum) { return height - x(datum.books); }).
+    attr("width", function(datum) { return x(datum.books); }).
+    attr("height", barWidth).
+    attr("fill", "#2d578b");
+
 </script>
 
 </body>

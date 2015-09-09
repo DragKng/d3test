@@ -77,66 +77,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="infra-output.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/infra-output.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="24375">
-                  <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="sunbrusttest.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1470">
                   <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="groupeddata.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/groupeddata.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2655">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#167#680#0" expanded="false" />
-                    <element signature="e#761#871#0" expanded="false" />
-                    <element signature="e#959#1074#0" expanded="false" />
-                    <element signature="e#1162#1223#0" expanded="false" />
-                    <element signature="e#1384#1603#0" expanded="false" />
-                    <element signature="e#1692#1860#0" expanded="false" />
-                    <element signature="e#1956#2125#0" expanded="false" />
-                    <element signature="e#2221#2286#0" expanded="false" />
-                    <element signature="e#2380#2497#0" expanded="false" />
-                    <element signature="e#2578#2698#0" expanded="false" />
-                    <element signature="e#2796#2913#0" expanded="false" />
-                    <element signature="e#3011#3129#0" expanded="false" />
-                    <element signature="e#3296#3414#0" expanded="false" />
-                    <element signature="e#3510#3626#0" expanded="false" />
-                    <element signature="e#3720#3786#0" expanded="false" />
-                    <element signature="e#3955#4173#0" expanded="false" />
-                    <element signature="e#4262#4532#0" expanded="false" />
-                    <element signature="e#4628#4693#0" expanded="false" />
-                    <element signature="e#4787#4852#0" expanded="false" />
-                    <element signature="e#4953#5019#0" expanded="false" />
-                    <element signature="e#5096#5161#0" expanded="false" />
-                    <element signature="e#5330#5654#0" expanded="false" />
-                    <element signature="e#5743#5808#0" expanded="false" />
-                    <element signature="e#5891#6010#0" expanded="false" />
-                    <element signature="e#6106#6171#0" expanded="false" />
-                    <element signature="e#6265#6329#0" expanded="false" />
-                    <element signature="e#6410#6475#0" expanded="false" />
-                    <element signature="e#6573#6638#0" expanded="false" />
-                    <element signature="e#6736#6802#0" expanded="false" />
-                    <element signature="e#6971#7192#0" expanded="false" />
-                    <element signature="e#7281#7449#0" expanded="false" />
-                    <element signature="e#7545#7715#0" expanded="false" />
-                    <element signature="e#7809#7876#0" expanded="false" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -188,55 +134,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="groupeddata.json" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/groupeddata.json">
+          <file leaf-file-name="comment.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/comment.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2655">
-                  <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-                  <folding>
-                    <element signature="e#167#680#0" expanded="false" />
-                    <element signature="e#761#871#0" expanded="false" />
-                    <element signature="e#959#1074#0" expanded="false" />
-                    <element signature="e#1162#1223#0" expanded="false" />
-                    <element signature="e#1384#1603#0" expanded="false" />
-                    <element signature="e#1692#1860#0" expanded="false" />
-                    <element signature="e#1956#2125#0" expanded="false" />
-                    <element signature="e#2221#2286#0" expanded="false" />
-                    <element signature="e#2380#2497#0" expanded="false" />
-                    <element signature="e#2578#2698#0" expanded="false" />
-                    <element signature="e#2796#2913#0" expanded="false" />
-                    <element signature="e#3011#3129#0" expanded="false" />
-                    <element signature="e#3296#3414#0" expanded="false" />
-                    <element signature="e#3510#3626#0" expanded="false" />
-                    <element signature="e#3720#3786#0" expanded="false" />
-                    <element signature="e#3955#4173#0" expanded="false" />
-                    <element signature="e#4262#4532#0" expanded="false" />
-                    <element signature="e#4628#4693#0" expanded="false" />
-                    <element signature="e#4787#4852#0" expanded="false" />
-                    <element signature="e#4953#5019#0" expanded="false" />
-                    <element signature="e#5096#5161#0" expanded="false" />
-                    <element signature="e#5330#5654#0" expanded="false" />
-                    <element signature="e#5743#5808#0" expanded="false" />
-                    <element signature="e#5891#6010#0" expanded="false" />
-                    <element signature="e#6106#6171#0" expanded="false" />
-                    <element signature="e#6265#6329#0" expanded="false" />
-                    <element signature="e#6410#6475#0" expanded="false" />
-                    <element signature="e#6573#6638#0" expanded="false" />
-                    <element signature="e#6736#6802#0" expanded="false" />
-                    <element signature="e#6971#7192#0" expanded="false" />
-                    <element signature="e#7281#7449#0" expanded="false" />
-                    <element signature="e#7545#7715#0" expanded="false" />
-                    <element signature="e#7809#7876#0" expanded="false" />
-                  </folding>
+                <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+                  <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="comment.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/comment.html">
+          <file leaf-file-name="sunbrusttest.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../d3circle/sunbrusttest.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
-                  <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -272,8 +184,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="166" />
-    <option name="y" value="22" />
+    <option name="x" value="15" />
+    <option name="y" value="223" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
   </component>
@@ -373,6 +285,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../d3circle" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\campbeno\PhpstormProjects\d3test" />
       <recent name="C:\Users\campbeno\PhpstormProjects\d3test\d3" />
     </key>
@@ -423,7 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="15" y="223" width="1280" height="774" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -554,14 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infra-output.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="24375">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sunbrusttest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1470">
@@ -609,48 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/groupeddata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2655">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#167#680#0" expanded="false" />
-            <element signature="e#761#871#0" expanded="false" />
-            <element signature="e#959#1074#0" expanded="false" />
-            <element signature="e#1162#1223#0" expanded="false" />
-            <element signature="e#1384#1603#0" expanded="false" />
-            <element signature="e#1692#1860#0" expanded="false" />
-            <element signature="e#1956#2125#0" expanded="false" />
-            <element signature="e#2221#2286#0" expanded="false" />
-            <element signature="e#2380#2497#0" expanded="false" />
-            <element signature="e#2578#2698#0" expanded="false" />
-            <element signature="e#2796#2913#0" expanded="false" />
-            <element signature="e#3011#3129#0" expanded="false" />
-            <element signature="e#3296#3414#0" expanded="false" />
-            <element signature="e#3510#3626#0" expanded="false" />
-            <element signature="e#3720#3786#0" expanded="false" />
-            <element signature="e#3955#4173#0" expanded="false" />
-            <element signature="e#4262#4532#0" expanded="false" />
-            <element signature="e#4628#4693#0" expanded="false" />
-            <element signature="e#4787#4852#0" expanded="false" />
-            <element signature="e#4953#5019#0" expanded="false" />
-            <element signature="e#5096#5161#0" expanded="false" />
-            <element signature="e#5330#5654#0" expanded="false" />
-            <element signature="e#5743#5808#0" expanded="false" />
-            <element signature="e#5891#6010#0" expanded="false" />
-            <element signature="e#6106#6171#0" expanded="false" />
-            <element signature="e#6265#6329#0" expanded="false" />
-            <element signature="e#6410#6475#0" expanded="false" />
-            <element signature="e#6573#6638#0" expanded="false" />
-            <element signature="e#6736#6802#0" expanded="false" />
-            <element signature="e#6971#7192#0" expanded="false" />
-            <element signature="e#7281#7449#0" expanded="false" />
-            <element signature="e#7545#7715#0" expanded="false" />
-            <element signature="e#7809#7876#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/comment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
@@ -679,6 +543,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -702,6 +567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -733,6 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -756,14 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1425">
           <caret line="38" column="43" selection-start-line="30" selection-start-column="2" selection-end-line="38" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/infra-output.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="24375">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -809,7 +668,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
@@ -820,48 +679,6 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1860" max-vertical-offset="5130">
           <caret line="124" column="42" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/groupeddata.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2655">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-          <folding>
-            <element signature="e#167#680#0" expanded="false" />
-            <element signature="e#761#871#0" expanded="false" />
-            <element signature="e#959#1074#0" expanded="false" />
-            <element signature="e#1162#1223#0" expanded="false" />
-            <element signature="e#1384#1603#0" expanded="false" />
-            <element signature="e#1692#1860#0" expanded="false" />
-            <element signature="e#1956#2125#0" expanded="false" />
-            <element signature="e#2221#2286#0" expanded="false" />
-            <element signature="e#2380#2497#0" expanded="false" />
-            <element signature="e#2578#2698#0" expanded="false" />
-            <element signature="e#2796#2913#0" expanded="false" />
-            <element signature="e#3011#3129#0" expanded="false" />
-            <element signature="e#3296#3414#0" expanded="false" />
-            <element signature="e#3510#3626#0" expanded="false" />
-            <element signature="e#3720#3786#0" expanded="false" />
-            <element signature="e#3955#4173#0" expanded="false" />
-            <element signature="e#4262#4532#0" expanded="false" />
-            <element signature="e#4628#4693#0" expanded="false" />
-            <element signature="e#4787#4852#0" expanded="false" />
-            <element signature="e#4953#5019#0" expanded="false" />
-            <element signature="e#5096#5161#0" expanded="false" />
-            <element signature="e#5330#5654#0" expanded="false" />
-            <element signature="e#5743#5808#0" expanded="false" />
-            <element signature="e#5891#6010#0" expanded="false" />
-            <element signature="e#6106#6171#0" expanded="false" />
-            <element signature="e#6265#6329#0" expanded="false" />
-            <element signature="e#6410#6475#0" expanded="false" />
-            <element signature="e#6573#6638#0" expanded="false" />
-            <element signature="e#6736#6802#0" expanded="false" />
-            <element signature="e#6971#7192#0" expanded="false" />
-            <element signature="e#7281#7449#0" expanded="false" />
-            <element signature="e#7545#7715#0" expanded="false" />
-            <element signature="e#7809#7876#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,6 +702,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1365">
           <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../d3circle/sunbrusttest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
